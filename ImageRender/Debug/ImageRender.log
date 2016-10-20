@@ -1,0 +1,7 @@
+﻿  PencilDraw.cpp
+d:\aaa\123\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\aaa\123\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\aaa\123\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\aaa\123\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+    正在创建库 c:\users\chengk\documents\visual studio 2015\Projects\ImageRender\Debug\ImageRender.lib 和对象 c:\users\chengk\documents\visual studio 2015\Projects\ImageRender\Debug\ImageRender.exp
+  ImageRender.vcxproj -> c:\users\chengk\documents\visual studio 2015\Projects\ImageRender\Debug\ImageRender.dll
